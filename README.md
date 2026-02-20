@@ -21,6 +21,7 @@ This project documents:
 - Incident Response and Business Continuity improvements
 
 The objective was to design a structured remediation plan aligned with recognized industry standards and enterprise security best practices.
+
 **Note:** This project is based on an academic case study.
 ---
 
