@@ -106,7 +106,7 @@ Aligned with **NIST SP 800-61r2**:
 
 ## Repository Contents
 
-- `SAGE_Books_Cybersecurity_Response_Report.pdf` – Full formal report  
+- `Enterprise Cybersecurity Gap Assessment & Response Plan.pdf` – Full formal report  
 - `README.md` – Portfolio-optimized project summary  
 
 ---
