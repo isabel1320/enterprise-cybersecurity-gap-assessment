@@ -1,8 +1,7 @@
 # enterprise-cybersecurity-gap-assessment
 Enterprise cybersecurity gap assessment aligning security controls with PCI DSS, GDPR, and NIST frameworks, including incident response and business continuity planning.
-# SAGE Books – Enterprise Cybersecurity Gap Assessment & Response Plan
+# Enterprise Cybersecurity Gap Assessment & Response Plan
 
-**Role Simulated:** Chief Information Security Officer (CISO)  
 **Project Type:** Enterprise Security Assessment & Compliance Alignment  
 **Focus Areas:** PCI DSS v4.0, GDPR, NIST Frameworks, Incident Response, Business Continuity  
 
